@@ -1,4 +1,4 @@
 
 <Version: 1.01>
-/data/test.zip http://sumrndm.site/wp-content/uploads/2017/01/Background.png
+/data/test.zip http://sumrndm.site/auto-updater/#
 <End of Version>
